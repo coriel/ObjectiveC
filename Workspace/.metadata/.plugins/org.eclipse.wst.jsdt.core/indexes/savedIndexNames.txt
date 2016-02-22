@@ -1,7 +1,0 @@
-INDEX VERSION 1.3+/Users/coriel/Library/Mobile Documents/com~apple~CloudDocs/Study/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1849134315.index
-876738101.index
-1127506469.index
-1394072093.index
-4049538668.index
-2865064429.index

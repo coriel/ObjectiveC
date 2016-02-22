@@ -1,9 +1,0 @@
-  <div data-role="panel" id="myPanel" width="100px"> 
-    <ul>노래방책</a></ul>
-    <ul><blockquote><a href="song_t">= 태진</a></blockquote></ul>
-    <ul><blockquote><a href="song_k">= 금영</a></blockquote></ul>
-    <ul>공연 실황</ul>
-    <ul><blockquote><a href="song_t">= 한글자막</a></blockquote></ul>
-    <ul><blockquote><a href="song_k">= 한국어</a></blockquote></ul>
-    <ul><blockquote><a href="song_k">= 외국어</a></blockquote></ul>
-  </div> 
